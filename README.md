@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header_image.png" alt="Hi 👋, I'm [Your Name]" style="width:100%; max-width:1280px; height:auto; border-radius:8px;">
+  <img src="header.png" alt="Hi 👋, I'm Aadya Arun Talreja" style="width:100%; max-width:1280px; height:auto; border-radius:8px;">
 </div>
 
 ## ⚡️ Languages and Tools
