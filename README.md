@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Hi 👋, I'm Aadya Arun Talreja" style="width:100%; max-width:1280px; height:auto; border-radius:8px;">
+  <img src="header.png" alt="Hi There! I'm Aadya Arun Talreja" style="width:100%; max-width:1280px; height:auto; border-radius:8px;">
 </div>
 
 ## ⚡️ Languages and Tools
@@ -18,13 +18,13 @@
  </tr>
  <tr>
   <td>
-   <img src = "https://skillicons.dev/icons?i=py,java,c,js,swift,solidity&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=py,java,c,js,c++,solidity&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=html,css,react,flask&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=html,css&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb,supabase&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=mysql,sqlite&theme=dark">
   </td>
  </tr>
  <tr>
@@ -56,11 +56,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="170" alt="streak graph"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadyatalreja&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false&order=3" alt="languages graph"/>
-</div>
-  
-![Snake animation](https://github.com/aadyatalreja/aadyatalreja/blob/output/snake.svg)
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aadyatalreja/count.svg?"  />
 </div>
