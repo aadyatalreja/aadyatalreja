@@ -18,7 +18,7 @@
  </tr>
  <tr>
   <td>
-   <img src = "https://skillicons.dev/icons?i=py,java,c,js,c++,solidity&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=py,java,c,js,solidity&theme=dark">
   </td>
   <td>
    <img src = "https://skillicons.dev/icons?i=html,css&theme=dark">
