@@ -67,9 +67,9 @@ Building intelligent systems at the intersection of Machine Learning, GenAI, and
   <img src="https://raw.githubusercontent.com/aadyatalreja/aadyatalreja/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="170" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=2" height="170" alt="streak graph"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aadyatalreja&locale=en&hide_title=false&layout=donut&langs_count=6&theme=default&hide_border=true&order=3" alt="languages graph"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="155" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=2" height="155" alt="streak graph"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aadyatalreja&locale=en&hide_title=false&layout=donut&langs_count=6&theme=default&hide_border=true&order=3" height="155" alt="languages graph"/>
 </div>
 
 <div align="center">
@@ -85,3 +85,5 @@ Open to internships, entry-level SDE/ML roles, and collaborative projects.
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talrejaaadya@gmail.com)
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0b8d4,50:c8e0d8,100:f0d4b0&height=100&section=footer&textColor=transparent" width="100%" alt="Footer">
+
