@@ -76,7 +76,7 @@ Building intelligent systems at the intersection of Machine Learning, GenAI, and
 </div>
 
 ## Get in Touch
-Open to internships, entry-level SDE/ML roles, and collaborative projects.
+Always excited to collaborate on innovative software, AI, and emerging technologies. Whether you're building something impactful, exploring a new idea, or just want to chat about tech, feel free to reach out! 
 
 <div align="center">
   
