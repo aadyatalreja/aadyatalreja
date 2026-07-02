@@ -4,13 +4,15 @@
 
 <div align="center">
 
-**AI/ML Engineer in the Making | B.Tech CS @ RV University | FinTech Minor**
+**AI/ML Engineer in the Making | B.Tech CSE @ RV University | FinTech Minor**
 
 Building intelligent systems at the intersection of Machine Learning, GenAI, and full-stack engineering.
 
 [![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/aadyatalreja/aadyatalreja/blob/main/Resume_Aadya_Arun_Talreja.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/aadya-talreja/)
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talrejaaadya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadyatalreja)
+
 
 </div>
 
