@@ -30,37 +30,26 @@ Building intelligent systems at the intersection of Machine Learning, GenAI, and
 </div>
 
 ## Languages & Tools
-
 <table align="center">
  <tr>
-  <td><strong>Languages</strong></td>
+  <td><strong>Programming Languages</strong></td>
   <td><strong>Web Development</strong></td>
-  <td><strong>Database</strong></td>
+  <td><strong>Databases</strong></td>
  </tr>
  <tr>
-  <td><img src="https://skillicons.dev/icons?i=py,java,c&theme=light"></td>
-  <td><img src="https://skillicons.dev/icons?i=html,css,js,react,angular&theme=light"></td>
-  <td><img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light"></td>
+  <td><img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=light"></td>
+  <td><img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,flask&theme=light"></td>
+  <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,pgadmin&theme=light"></td>
  </tr>
  <tr>
-  <td><strong>AI / ML</strong></td>
-  <td><strong>DevOps & Deployment</strong></td>
-  <td><strong>Version Control</strong></td>
+  <td><strong>Machine Learning</strong></td>
+  <td><strong>DevOps & Cloud</strong></td>
+  <td><strong>Additional Tools</strong></td>
  </tr>
  <tr>
   <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light"></td>
-  <td><img src="https://skillicons.dev/icons?i=githubactions,docker,gcp,vercel&theme=light"></td>
-  <td><img src="https://skillicons.dev/icons?i=git,github&theme=light"></td>
- </tr>
- <tr>
-  <td><strong>Miscellaneous</strong></td>
-  <td><strong>Blockchain</strong></td>
-  <td><strong>Embedded</strong></td>
- </tr>
- <tr>
-  <td><img src="https://skillicons.dev/icons?i=linux,bash&theme=light"></td>
-  <td><img src="https://skillicons.dev/icons?i=solidity&theme=light"></td>
-  <td><img src="https://skillicons.dev/icons?i=arduino&theme=light"></td>
+  <td><img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,aws,git,github&theme=light"></td>
+  <td><img src="https://skillicons.dev/icons?i=linux,bash,solidity,arduino&theme=light"></td>
  </tr>
 </table>
 
