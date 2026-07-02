@@ -99,6 +99,10 @@ See pinned repositories below for full code and documentation.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyatalreja&theme=minimal&hide_border=true" alt="activity graph"/>
 </div>
 
+---
+
+## Contribution Snake
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/aadyatalreja/aadyatalreja/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
@@ -108,7 +112,7 @@ See pinned repositories below for full code and documentation.
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadyatalreja&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/aadyatalreja/aadyatalreja/output/trophy.svg" alt="trophies" />
 </div>
 
 ---
