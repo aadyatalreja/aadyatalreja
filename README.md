@@ -10,7 +10,7 @@ Building intelligent systems at the intersection of Machine Learning, GenAI, and
 
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/aadyatalreja/aadyatalreja/blob/main/Resume_Aadya_Arun_Talreja.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadya-talreja/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](talrejaaadya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talrejaaadya@gmail.com)
 
 </div>
 
@@ -81,7 +81,7 @@ See pinned repositories below for full code and documentation.
 <div align="center">
 
 <a href="https://github.com/aadyatalreja/Adaptive-AI-Learning-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadyatalreja&repo=Adaptive-AI-Learning-Assistant&theme=default" /></a>
-<a href="https://github.com/aadyatalreja/Multi-Agent-Research-Assistant "><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadyatalreja&repo=Multi-Agent-Research-Assistant &theme=default" /></a>
+<a href="https://github.com/aadyatalreja/Multi-Agent-Research-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadyatalreja&repo=Multi-Agent-Research-Assistant&theme=default" /></a>
 
 </div>
 
@@ -100,6 +100,7 @@ See pinned repositories below for full code and documentation.
 </div>
 
 ---
+
 ## Contribution Snake
 
 <div align="center">
@@ -123,7 +124,7 @@ See pinned repositories below for full code and documentation.
 Open to internships, entry-level SDE/ML roles, and collaborative projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadya-talreja/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](talrejaaadya@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talrejaaadya@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/aadyatalreja/aadyatalreja/blob/main/Resume_Aadya_Arun_Talreja.pdf)
 
 </div>
