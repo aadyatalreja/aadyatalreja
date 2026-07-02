@@ -80,8 +80,8 @@ See pinned repositories below for full code and documentation.
 
 <div align="center">
 
-<a href="https://github.com/aadyatalreja/Adaptive-AI-Learning-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadyatalreja&repo=Adaptive-AI-Learning-Assistant&theme=default" /></a>
-<a href="https://github.com/aadyatalreja/Multi-Agent-Research-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadyatalreja&repo=Multi-Agent-Research-Assistant&theme=default" /></a>
+<a href="https://github.com/aadyatalreja/Adaptive-AI-Learning-Assistant"><img src="https://github-stats-extended.vercel.app/api/pin/?username=aadyatalreja&repo=Adaptive-AI-Learning-Assistant&theme=default" /></a>
+<a href="https://github.com/aadyatalreja/Multi-Agent-Research-Assistant"><img src="https://github-stats-extended.vercel.app/api/pin/?username=aadyatalreja&repo=Multi-Agent-Research-Assistant&theme=default" /></a>
 
 </div>
 
@@ -90,18 +90,14 @@ See pinned repositories below for full code and documentation.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="170" alt="stats graph"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="170" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=2" height="170" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyatalreja&locale=en&hide_title=false&layout=donut&langs_count=6&theme=default&hide_border=true&order=3" alt="languages graph"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aadyatalreja&locale=en&hide_title=false&layout=donut&langs_count=6&theme=default&hide_border=true&order=3" alt="languages graph"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyatalreja&theme=minimal&hide_border=true" alt="activity graph"/>
 </div>
-
----
-
-## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aadyatalreja/aadyatalreja/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
