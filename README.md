@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# Aadya Arun Talreja
-
 **AI/ML Engineer in the Making | B.Tech CS @ RV University | FinTech Minor**
 
 Building intelligent systems at the intersection of Machine Learning, GenAI, and full-stack engineering.
