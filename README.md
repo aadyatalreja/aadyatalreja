@@ -20,7 +20,7 @@ Building intelligent systems at the intersection of Machine Learning, GenAI, and
 
 ## About
 
-- Third-year B.Tech in Computer Science (AI/ML specialization) at RV University, Bangalore, with a minor in FinTech
+- Final year B.Tech in Computer Science (AI/ML specialization) at RV University, Bangalore, with a minor in FinTech
 - Currently working on multi-agent GenAI systems, including an academic paper summarizer built with agentic pipelines
 - Background spans applied machine learning, blockchain-based systems, and embedded systems, with 20+ projects delivered across six semesters
 - Actively seeking SDE, ML Engineer, and AI Research internship and full-time opportunities
