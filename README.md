@@ -100,6 +100,13 @@ See pinned repositories below for full code and documentation.
 </div>
 
 ---
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aadyatalreja/aadyatalreja/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</div>
+
+---
 
 ## Trophies
 
