@@ -67,22 +67,24 @@ Building intelligent systems at the intersection of Machine Learning, GenAI, and
   <img src="https://raw.githubusercontent.com/aadyatalreja/aadyatalreja/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="170" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=2" height="170" alt="streak graph"/>
+<img src="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=true&bg_color=faf6ef&title_color=2d2a26&text_color=6b6558&icon_color=e0b8d4" height="170" alt="stats graph"/>
+<img src="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&hide_border=true&border_radius=5&background=faf6ef&ring=e0b8d4&fire=f0d4b0&currStreakNum=2d2a26&sideNums=2d2a26&currStreakLabel=2d2a26&sideLabels=6b6558&dates=8a8578&border=faf6ef" height="170" alt="streak graph"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyatalreja&theme=minimal&hide_border=true" alt="activity graph"/>
 </div>
 
-<div align="center">
-
+## Get in Touch
 Open to internships, entry-level SDE/ML roles, and collaborative projects.
 
+<div align="center">
+  
 [![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/aadyatalreja/aadyatalreja/blob/main/Resume_Aadya_Arun_Talreja.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/aadya-talreja/)
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talrejaaadya@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=aadyatalreja&style=flat-square&color=e0b8d4" alt="Profile Views">
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0b8d4,50:c8e0d8,100:f0d4b0&height=100&section=footer&textColor=transparent" width="100%" alt="Footer">
 
