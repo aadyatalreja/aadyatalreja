@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**AI/ML Engineer in the Making | B.Tech CSE @ RV University | FinTech Minor**
+#### **AI/ML Engineer in the Making | B.Tech CSE @ RV University | FinTech Minor**
 
 Building intelligent systems at the intersection of Machine Learning, GenAI, and full-stack engineering.
 
