@@ -58,8 +58,17 @@ Building intelligent systems at the intersection of Machine Learning, GenAI, and
   <img src="https://raw.githubusercontent.com/aadyatalreja/aadyatalreja/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false&border_color=6b6558&bg_color=transparent&title_color=2d2a26&text_color=6b6558&icon_color=e0b8d4" height="170" alt="stats graph"/>
-<img src="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&hide_border=false&border=6b6558&border_radius=5&bg_color=transparent&ring=e0b8d4&fire=f0d4b0&currStreakNum=2d2a26&sideNums=2d2a26&currStreakLabel=2d2a26&sideLabels=6b6558&dates=8a8578" height="170" alt="streak graph"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aadyatalreja&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=2d2a26&text_color=6b6558&icon_color=e0b8d4"
+    height="170"
+    alt="Aadya Arun Talreja's GitHub statistics"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=aadyatalreja&theme=transparent&hide_border=true&ring=e0b8d4&fire=f0d4b0&currStreakNum=2d2a26&sideNums=2d2a26&currStreakLabel=2d2a26&sideLabels=6b6558&dates=8a8578"
+    height="170"
+    alt="Aadya Arun Talreja's GitHub contribution streak"
+  />
 </div>
 
 <div align="center">
