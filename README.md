@@ -25,10 +25,6 @@ Building intelligent systems at the intersection of Machine Learning, GenAI, and
 - Background spans applied machine learning, blockchain-based systems, and embedded systems, with 20+ projects delivered across six semesters
 - Actively seeking SDE, ML Engineer, and AI Research internship and full-time opportunities
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aadyatalreja/aadyatalreja/output/trophy.svg" alt="trophies" />
-</div>
-
 ## Languages & Tools
 <table align="center">
  <tr>
