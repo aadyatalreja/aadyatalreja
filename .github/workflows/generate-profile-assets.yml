@@ -12,14 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Generate Trophy
-      - name: Generate GitHub Trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: aadyatalreja
-          output_path: dist/trophy.svg
-          theme: flat
-          token: ${{ secrets.GITHUB_TOKEN }}
       # Generate Snake
       - name: Generate Snake
         uses: Platane/snk@v3
