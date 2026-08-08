@@ -100,10 +100,6 @@
 Always excited to collaborate on innovative software, AI, and emerging technologies. Whether you're building something impactful, exploring a new idea, or just want to chat about tech, feel free to reach out! 
 
 <div align="center">
-  
-[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/aadyatalreja/aadyatalreja/blob/main/Resume_Aadya_Arun_Talreja.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/aadya-talreja/)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talrejaaadya@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=aadyatalreja&style=flat-square&color=e0b8d4" alt="Profile Views">
 </div>
