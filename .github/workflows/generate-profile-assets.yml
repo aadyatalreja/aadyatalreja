@@ -12,15 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Generate Trophy
-      - name: Generate GitHub Trophy
-        uses: ryo-ma/github-profile-trophy@v1.2.5
-        with:
-          username: aadyatalreja
-          theme: flat
-          column: 6
-          row: 1
-          outputPath: dist/trophy.svg
       # Generate Snake
       - name: Generate Snake
         uses: Platane/snk@v3
