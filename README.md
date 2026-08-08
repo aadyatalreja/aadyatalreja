@@ -26,6 +26,16 @@
 
 ## Languages & Tools
 
+<!--
+  NOTE: the &cb=2 on the dark srcset URLs below is a cache-buster.
+  GitHub's camo proxy caches images by exact URL forever, and skillicons.dev
+  can occasionally time out mid-render on a multi-icon request, causing camo
+  to permanently cache a broken/partial image. If dark mode ever starts
+  showing only one icon per box again, just bump cb=2 to cb=3, etc. to force
+  a fresh fetch. &perline=10 is also set explicitly so dark/light always wrap
+  identically.
+-->
+
 <table align="center">
  <tr>
   <td><strong>Programming Languages</strong></td>
@@ -35,20 +45,20 @@
  <tr>
   <td>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark">
-      <img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark&perline=10&cb=2">
+      <img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=light&perline=10">
     </picture>
   </td>
   <td>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,flask&theme=dark">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,flask&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,flask&theme=dark&perline=10&cb=2">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,flask&theme=light&perline=10">
     </picture>
   </td>
   <td>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,pgadmin&theme=dark">
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,pgadmin&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,pgadmin&theme=dark&perline=10&cb=2">
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,pgadmin&theme=light&perline=10">
     </picture>
   </td>
  </tr>
@@ -60,20 +70,20 @@
  <tr>
   <td>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=10&cb=2">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light&perline=10">
     </picture>
   </td>
   <td>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,aws,git,github&theme=dark">
-      <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,aws,git,github&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,aws,git,github&theme=dark&perline=10&cb=2">
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,aws,git,github&theme=light&perline=10">
     </picture>
   </td>
   <td>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,bash,solidity,arduino&theme=dark">
-      <img src="https://skillicons.dev/icons?i=linux,bash,solidity,arduino&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,bash,solidity,arduino&theme=dark&perline=10&cb=2">
+      <img src="https://skillicons.dev/icons?i=linux,bash,solidity,arduino&theme=light&perline=10">
     </picture>
   </td>
  </tr>
@@ -90,18 +100,18 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false&border_color=4b4b57&title_color=e6e6f0&text_color=d7d3cb&icon_color=e08cc0&bg_color=0d1117">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&hide_border=false&border_color=4b4b57&title_color=e6e6f0&text_color=d7d3cb&icon_color=e08cc0&bg_color=0d1117">
     <img src="https://github-stats-extended.vercel.app/api?username=aadyatalreja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false&border_color=6b6558&title_color=2d2a26&text_color=6b6558&icon_color=e0b8d4" height="170" alt="stats graph"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&hide_border=false&border=4b4b57&border_radius=5&bg_color=0d1117&ring=e08cc0&fire=f0d4b0&currStreakNum=e6e6f0&sideNums=e6e6f0&currStreakLabel=e6e6f0&sideLabels=d7d3cb&dates=9a968f">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&hide_border=false&border=4b4b57&border_radius=5&bg_color=0d1117&ring=e08cc0&fire=f0d4b0&currStreakNum=e6e6f0&sideNums=e6e6f0&currStreakLabel=e6e6f0&sideLabels=d7d3cb&dates=9a968f&disable_animations=true">
     <img src="https://streak-stats.demolab.com?user=aadyatalreja&locale=en&mode=daily&hide_border=false&border=6b6558&border_radius=5&bg_color=transparent&ring=e0b8d4&fire=f0d4b0&currStreakNum=2d2a26&sideNums=2d2a26&currStreakLabel=2d2a26&sideLabels=6b6558&dates=8a8578" height="170" alt="streak graph"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aadyatalreja&theme=react-dark&hide_border=true&point=e08cc0&bg_color=0d1117">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aadyatalreja&theme=react-dark&hide_border=true&point=e08cc0&line=e08cc0&bg_color=0d1117">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyatalreja&theme=minimal&hide_border=true&point=e0b8d4" alt="activity graph"/>
   </picture>
 </div>
@@ -111,10 +121,6 @@
 Always excited to collaborate on innovative software, AI, and emerging technologies. Whether you're building something impactful, exploring a new idea, or just want to chat about tech, feel free to reach out! 
 
 <div align="center">
-  
-[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/aadyatalreja/aadyatalreja/blob/main/Resume_Aadya_Arun_Talreja.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/aadya-talreja/)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talrejaaadya@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=aadyatalreja&style=flat-square&color=e0b8d4" alt="Profile Views">
 </div>
