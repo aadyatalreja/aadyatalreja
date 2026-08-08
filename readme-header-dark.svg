@@ -52,7 +52,7 @@
   <text x="525" y="72"><tspan class="key">Role:</tspan><tspan class="cc"> .................... </tspan><tspan x="770" class="value">AI/ML Engineer | SDE</tspan></text>
   <text x="525" y="94"><tspan class="key">University:</tspan><tspan class="cc"> .............. </tspan><tspan x="770" class="value">RV University, Bengaluru</tspan></text>
   <text x="525" y="116"><tspan class="key">Degree:</tspan><tspan class="cc"> ................... </tspan><tspan x="770" class="value">B.Tech (Honours) in CSE</tspan></text>
-  <text x="525" y="138"><tspan class="key">Major:</tspan><tspan class="cc"> .................... </tspan><tspan x="770" class="value">Artificial Intelligence &amp; ML</tspan></text>
+  <text x="525" y="138"><tspan class="key">Major:</tspan><tspan class="cc"> .................... </tspan><tspan x="770" class="value">AI &amp; ML</tspan></text>
   <text x="525" y="160"><tspan class="key">Minor:</tspan><tspan class="cc"> .................... </tspan><tspan x="770" class="value">FinTech</tspan></text>
   <text x="525" y="182"><tspan class="key">Status:</tspan><tspan class="cc"> ................... </tspan><tspan x="770" class="value">Open to SDE / AI-ML / Data / Full-Stack</tspan></text>
   <text x="525" y="220" class="section">- Contact</text>
@@ -60,9 +60,11 @@
   <text x="525" y="246"><tspan class="key">Email:</tspan><tspan class="cc"> .................... </tspan><tspan x="770" class="value">talrejaaadya@gmail.com</tspan></text>
   <text x="525" y="268"><tspan class="key">LinkedIn:</tspan><tspan class="cc"> .................. </tspan><tspan x="770" class="value">aadya-talreja</tspan></text>
   <text x="525" y="290"><tspan class="key">GitHub:</tspan><tspan class="cc"> .................... </tspan><tspan x="770" class="value">aadyatalreja</tspan></text>
-  <text x="525" y="312"><tspan class="key">Resume:</tspan><tspan class="cc"> .................... </tspan><tspan x="770" class="value">github.com/aadyatalreja</tspan></text>
-  <text x="525" y="350" class="section">- GitHub Stats</text>
-  <line x1="655" y1="345" x2="1010" y2="345" class="rule"/>
-  <text x="525" y="376" class="value">activity, repositories, contributions &amp; streak ↓ further down this README</text>
+  <text x="525" y="312"><tspan class="key">Portfolio:</tspan><tspan class="cc"> ................. </tspan><tspan x="770" class="value">aadya-arun-talreja.netlify.app</tspan></text>
+  <text x="525" y="334"><tspan class="key">Resume:</tspan><tspan class="cc"> .................... </tspan><tspan x="770" class="value">aadyatalreja/Resume.pdf</tspan></text>
+  <text x="525" y="372" class="section">- GitHub Stats</text>
+  <line x1="655" y1="367" x2="1010" y2="367" class="rule"/>
+  <text x="525" y="398" class="value">activity, repositories, contributions &amp; streak ↓</text>
+  <text x="525" y="420" class="value">further down this README</text>
   </g>
 </svg>
