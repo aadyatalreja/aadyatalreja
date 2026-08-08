@@ -1,5 +1,4 @@
 name: Generate GitHub Profile Assets
-
 on:
   schedule:
     - cron: "0 0 * * *"   # Daily at midnight UTC
@@ -7,26 +6,21 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
       # Generate Trophy
       - name: Generate GitHub Trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: ryo-ma/github-profile-trophy@v1.2.5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           username: aadyatalreja
-          file: dist/trophy.svg
           theme: flat
-          max-cols: 6
-          max-rows: 1
-
+          column: 6
+          row: 1
+          outputPath: dist/trophy.svg
       # Generate Snake
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -37,7 +31,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       # Publish everything together
       - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
