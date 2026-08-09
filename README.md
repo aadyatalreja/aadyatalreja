@@ -44,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,solidity&theme=light&perline=10">
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,flask,nextjs,tailwind&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,flask,nextjs,tailwind,fastapi&theme=light&perline=10">
   </td>
   <td>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,pgadmin&theme=light&perline=10">
@@ -60,7 +60,7 @@
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light&perline=10">
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,vercel,aws,git,github,gitactions&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,vercel,aws,git,github,githubactions&theme=light&perline=10">
   </td>
   <td>
     <img src="https://skillicons.dev/icons?i=linux,bash,arduino,raspberrypi&theme=light&perline=10">
