@@ -53,7 +53,7 @@
  <tr>
   <td><strong>Machine Learning</strong></td>
   <td><strong>DevOps & Cloud</strong></td>
-  <td><strong>Systems Engineering & Security</strong></td>
+  <td><strong>Systems & Cybersecurity</strong></td>
  </tr>
  <tr>
   <td>
