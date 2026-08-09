@@ -41,10 +41,10 @@
  </tr>
  <tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,solidity&theme=light&perline=10">
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,flask&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,flask,nextjs,tailwind&theme=light&perline=10">
   </td>
   <td>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,pgadmin&theme=light&perline=10">
@@ -53,17 +53,17 @@
  <tr>
   <td><strong>Machine Learning</strong></td>
   <td><strong>DevOps & Cloud</strong></td>
-  <td><strong>Additional Tools</strong></td>
+  <td><strong>Systems Engineering & Security</strong></td>
  </tr>
  <tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light&perline=10">
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,aws,git,github&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,vercel,aws,git,github,gitactions&theme=light&perline=10">
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=linux,bash,solidity,arduino&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=linux,bash,arduino,raspberrypi&theme=light&perline=10">
   </td>
  </tr>
 </table>
